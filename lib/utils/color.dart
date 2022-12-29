@@ -6,5 +6,5 @@ class MyColors {
   static const Color buttonColor = Color(0xFF007BEF);
   static const Color fontColor = Color(0xFF424242);
   static const Color dialogColor = Color(0xFFFAFAFA);
-  static const Color borderColor = Color(0xFF9E9E9E);  
+  static const Color borderColor = Color(0xFFBDBDBD);  
 }
